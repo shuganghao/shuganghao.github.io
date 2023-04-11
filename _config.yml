@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "HAO, SHUGANG / Personal Website"
 title_separator          : "-"
 name                     : &name "Shugang Hao"
-description              : &description "personal description"
+description              : &description "Postdoctal Research Fellow"
 url                      : https://shuganghao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuganghao.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shugang Hao"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
